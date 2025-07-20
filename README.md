@@ -49,10 +49,10 @@ https://onkar-kambale.github.io/Github-Profile-Finder/
 - GitHub REST API
 
 # 💡 Future Improvements
--Dark/Light mode toggle 🌗
--Recent repositories display
--Save recent searches
--Better mobile optimization
+- Dark/Light mode toggle 🌗
+- Recent repositories display
+- Save recent searches
+- Better mobile optimization
 
 # 📄 License
 This project is open-source and available under the MIT License.
