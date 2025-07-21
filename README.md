@@ -35,16 +35,6 @@ https://onkar-kambale.github.io/Github-Profile-Finder/
 
 ---
 
-## 📁 How to Use Locally
-
-1. Clone this repository:
-- git clone https://github.com/your-username/github-profile-finder.git
-
-2. Navigate to the project folder:
-- cd github-profile-finder
-
-3. Open index.html in your browser OR use Live Server extension in VSCode.
-
 # 🛠 APIs Used
 - GitHub REST API
 
